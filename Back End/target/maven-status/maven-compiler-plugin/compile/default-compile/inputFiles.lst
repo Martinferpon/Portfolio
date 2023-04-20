@@ -1,5 +1,7 @@
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Controller\Mensaje.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Entity\Experiencia.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Entity\hys.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Service\Shys.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Repository\IPersonaRepository.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Dto\LoginUsuario.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Service\RolService.java
@@ -12,12 +14,18 @@ C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfoli
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Entity\Usuario.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Repository\iUsuarioRepository.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Controller\CExperiencia.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Repository\Rhys.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Dto\dtoPErsona.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Entity\Persona.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Entity\UsuarioPrincipal.java
-C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Interface\IPersonaService.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Dto\dtoEducacion.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Dto\dtohys.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Entity\Educacion.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\jwt\JwtEntryPoint.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Service\Seducacion.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\jwt\JwtProvider.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Service\UserDetailsImp.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Controller\Chys.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Repository\iRolRepository.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Enums\RolNombre.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Service\UsuarioService.java
@@ -25,5 +33,7 @@ C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfoli
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Controller\PersonaController.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Dto\dtoExperiencia.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Entity\Rol.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Repository\REducacion.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\MainSecurity.java
 C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Security\Controller\AuthController.java
+C:\argentina programa\portfolioang\Portfolio\Back End\src\main\java\com\portfolio\mafp\Controller\CEducacion.java
